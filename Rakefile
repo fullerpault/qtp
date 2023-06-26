@@ -90,9 +90,9 @@ task :generate_derivatives, [:thumbs_size, :small_size, :density, :missing, :com
   )
 
   # set the folder locations
-  objects_dir = 'objects'
-  thumb_image_dir = 'objects/thumbs'
-  small_image_dir = 'objects/small'
+  objects_dir = 'objects/photos'
+  thumb_image_dir = 'objects/photos/thumbs'
+  small_image_dir = 'objects/photos/small'
 
   # Ensure that the output directories exist.
   [thumb_image_dir, small_image_dir].each do |dir|
