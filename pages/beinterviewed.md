@@ -1,6 +1,6 @@
 ---
 title: Be Interviewed
-layout: page
+layout: page-narrow
 permalink: /beinterviewed.html
 ---
 

@@ -9,5 +9,5 @@ cloud-fields: site.data.theme.subjects-fields
 
 ## Browse Keywords
 
-Use this word cloud visualization to browse terms and keywords.
+Use this word cloud visualization to browse subject terms and keywords.
 Word size is determined by frequency and all words link to a corresponding collection search.

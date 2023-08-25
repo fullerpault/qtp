@@ -1,6 +1,6 @@
 ---
 title: Bar Stories
-layout: page
+layout: page-narrow
 permalink: /barstories.html
 ---
 
