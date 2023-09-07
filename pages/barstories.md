@@ -1,10 +1,33 @@
 ---
 title: Bar Stories
-layout: page-narrow
+layout: page
 permalink: /barstories.html
 ---
 
-# Bar Stories 
+# Bar Stories
+
+<div class="containter">
+    <div class="row justify-content-center">
+        <div class="col-6">
+            <div class="text center">
+                <iframe
+                    id="kaltura_player"
+                    src="https://cdnapisec.kaltura.com/p/2189801/sp/218980100/embedIframeJs/uiconf_id/44739341/partner_id/2189801?iframeembed=true&playerId=kaltura_player&entry_id=1_58hxq96h&flashvars[streamerType]=auto&amp;&wid=1_f33h58sk"
+                    width="800px"
+                    height="600px"
+                    allowfullscreen
+                    webkitallowfullscreen
+                    mozAllowFullScreen
+                    allow="autoplay *; fullscreen *; encrypted-media *"
+                    sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation"
+                    frameborder="0"
+                    title="Bar Stories">
+                </iframe>
+            </div>
+        </div>
+
+    </div> 
+</div>
 
 ## Film Festivals
 
